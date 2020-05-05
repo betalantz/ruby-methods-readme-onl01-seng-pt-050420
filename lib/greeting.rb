@@ -3,3 +3,4 @@ def greeting
   puts greeting
 end
 
+greeting
