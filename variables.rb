@@ -3,6 +3,7 @@ grape = 3
 pear = 4
 sum = grape + pear
 puts sum
-pear = 10
+pear = "hi"
 sum = grape + pear
 puts sum
+puts apple + pear
