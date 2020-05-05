@@ -4,6 +4,6 @@ pear = 4
 sum = grape + pear
 puts sum
 pear = "hi"
-sum = grape + pear
+# sum = grape + pear
 puts sum
 puts "#{apple} #{pear}"
