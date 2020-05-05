@@ -4,4 +4,5 @@ pear = 4
 sum = grape + pear
 puts sum
 pear = 10
+
 puts sum
