@@ -5,5 +5,5 @@ sum = grape + pear
 puts sum
 pear = "hi"
 # sum = grape + pear
-puts sum
+# puts sum
 puts "#{apple} #{pear}"
